@@ -6,13 +6,6 @@
 
 **GreekOpt** is a web application that allows users to calculate and visualize the **Greeks** of financial options, such as **Delta**, **Gamma**, **Theta**, **Vega**, and **Rho**. These metrics are essential for understanding the sensitivity of options prices to various market factors. **GreekOpt** aims to provide an easy-to-use and interactive platform for both beginner and advanced traders to analyze options in real-time.
 
-### Features
-
-- **Options Greeks Calculation**: Calculate Delta, Gamma, Theta, Vega, and Rho for different options based on input parameters such as strike price, volatility, underlying asset price, etc.
-- **Interactive Charts**: Visualize the behavior of each Greek over time using charts created with **Recharts**.
-- **User-Friendly Interface**: Simple, responsive, and intuitive design to facilitate quick understanding and analysis.
-- **Real-Time Data**: Integrate with financial APIs for real-time price updates and accurate calculations.
-
 ## Version Française
 
 ### Description du Projet
